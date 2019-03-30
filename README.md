@@ -85,7 +85,9 @@ Any website can benefit from an XML sitemap to guide search engines for proper i
 3.  It improves your search engine rankings
 4.  Users need to use a sitemap to navigate the site
 
-**Answer:** 1\. Search engines will index the site accurately **What's the best way to add a sitemap for a self-hosted WordPress.org site?**
+**Answer:** 1\. Search engines will index the site accurately 
+
+**What's the best way to add a sitemap for a self-hosted WordPress.org site?**
 
 1.  Enable the Sitemap option in the General Settings
 2.  Register the website with Google and Bing
