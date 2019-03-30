@@ -46,11 +46,21 @@ There are different methods for adding a sitemap to a website, along with follow
 *   Install a plugin for a self-hosted WordPress.org site.
 *   Submit the sitemap to search engines as required.
 
-Static websites necessitated manual work or special webmaster tools for creating sitemaps on websites. WordPress offers automated methods for creating sitemaps and for keeping them up to date. If your website has existed for some time, it's likely to be in Google search results along with other search engines. However, if you are launching a new domain or launching a new site design for an existing domain, you should check that the major search engines are indexing your website and using your sitemap. [info]Search Engine Land resource: [A Primer On How To Get The Most Out Of Sitemaps](http://searchengineland.com/a-primer-on-how-to-get-the-most-out-of-sitemaps-152092)[/info]
+Static websites necessitated manual work or special webmaster tools for creating sitemaps on websites. WordPress offers automated methods for creating sitemaps and for keeping them up to date. If your website has existed for some time, it's likely to be in Google search results along with other search engines. However, if you are launching a new domain or launching a new site design for an existing domain, you should check that the major search engines are indexing your website and using your sitemap.
+
+*Search Engine Land resource: [A Primer On How To Get The Most Out Of Sitemaps](http://searchengineland.com/a-primer-on-how-to-get-the-most-out-of-sitemaps-152092)*
 
 ### Create a sitemap at WordPress.com
 
-WordPress.com provides a sitemap for every search engine that supports the sitemap protocol, including Google, Yahoo!, Bing, Ask.com, and others. Sitemaps are automatically generated for public WordPress.com websites. If you have a wordpress.com site, go to: `**yoursitename**.wordpress.com/sitemap.xml` If you don't have a wordpress.com blog use the following example, or try adding the **/sitemap.xml** to any WordPress.com site: `[https://bestblog.wordpress.com/sitemap.xml](https://bestblog.wordpress.com/sitemap.xml)` 1\. Open the sitemap.xml link for your WordPress.com site or the example site. All of the links are listed with the last modification dates and change frequencies encapsulated with xml tags. [![Selection_051](https://make.wordpress.org/training/files/2016/04/Selection_051.png)](https://make.wordpress.org/training/files/2016/04/Selection_051.png) 2\. To enable this option on WordPress.com, go to  **Settings > General > Privacy** and ensure it is set to “Public”. [![Selection_052](https://make.wordpress.org/training/files/2016/04/Selection_052.png)](https://make.wordpress.org/training/files/2016/04/Selection_052.png)
+WordPress.com provides a sitemap for every search engine that supports the sitemap protocol, including Google, Yahoo!, Bing, Ask.com, and others. Sitemaps are automatically generated for public WordPress.com websites. If you have a wordpress.com site, go to: `**yoursitename**.wordpress.com/sitemap.xml`, If you don't have a wordpress.com blog use the following example, or try adding the **/sitemap.xml** to any WordPress.com site: [https://bestblog.wordpress.com/sitemap.xml](https://bestblog.wordpress.com/sitemap.xml)
+
+1\. Open the sitemap.xml link for your WordPress.com site or the example site. All of the links are listed with the last modification dates and change frequencies encapsulated with xml tags.
+
+[![Selection_051](https://make.wordpress.org/training/files/2016/04/Selection_051.png)](https://make.wordpress.org/training/files/2016/04/Selection_051.png)
+
+2\. To enable this option on WordPress.com, go to  **Settings > General > Privacy** and ensure it is set to “Public”. 
+
+[![Selection_052](https://make.wordpress.org/training/files/2016/04/Selection_052.png)](https://make.wordpress.org/training/files/2016/04/Selection_052.png)
 
 ### Create a sitemap for s self-hosted WordPress.org site
 
