@@ -56,7 +56,7 @@ WordPress.com provides a sitemap for every search engine that supports the sit
 
 1\. Open the sitemap.xml link for your WordPress.com site or the example site. All of the links are listed with the last modification dates and change frequencies encapsulated with xml tags.
 
-[![Selection_051](https://make.wordpress.org/training/files/2016/04/Selection_051.png)](https://make.wordpress.org/training/files/2016/04/Selection_051.png)
+[![Selection_051](images/Selection_051.png)](images/Selection_051.png)
 
 2\. To enable this option on WordPress.com, go to  **Settings > General > Privacy** and ensure it is set to “Public”. 
 
