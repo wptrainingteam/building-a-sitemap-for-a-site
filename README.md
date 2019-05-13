@@ -96,6 +96,14 @@ Any website can benefit from an XML sitemap to guide search engines for proper i
 
 **Answer:** 3. Choose a plugin that meets your needs for a sitemap
 
+**How to get page with top crawling among rest of all pages?**
+
+1.  Change <priority></priority> range with high number (EX:<priority>0.8</priority> )
+2.  Change <priority></priority> range with lower number (EX:<priority>0.6</priority> )
+3.  change sequence of page in listing in sitemap.xml
+
+**Answer:** 1. Change <priority></priority> range with high number (EX:<priority>0.8</priority> )
+
 ## Additional resources
 
 1.  WordPress.com [Sitemaps](https://en.support.wordpress.com/sitemaps/) support
